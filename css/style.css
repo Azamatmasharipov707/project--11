@@ -68,3 +68,16 @@ ul {
     justify-content: center;
     flex-grow: 1;
 }
+
+.about {
+    min-height: 500px;
+    background: green;
+    border-top: 10px solid #000;
+}
+
+.about__title {
+    font-size: 100px;
+    color: #fff;
+    line-height: 500px;
+    text-align: center;
+}
